@@ -6,12 +6,15 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Just like Git commit manually.When you done your job locally then you should
+    git push it
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks: online cloning, seperate from original and let others who did jobs
+    clones: online to local  or  local to local
+    branches: adding new features (local)
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

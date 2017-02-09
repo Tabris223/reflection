@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+The situation when I have to work on different place or different computer.
